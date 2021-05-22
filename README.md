@@ -1,4 +1,4 @@
-# Compressive_Transformer
+# Compressive-Transformer
 
 # Introduction
 This Project is an implementation about Compress Transformer. If you want to know the detail of Compressive Transformer, please check the reference.
